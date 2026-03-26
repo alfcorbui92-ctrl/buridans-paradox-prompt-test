@@ -1,5 +1,5 @@
 Gemini 3.1 flash error:
 The model assumes this scenario is exactly the same as the Buridan’s paradox and triggers the same response without analyzing that unlike the paradox the options are unequal. Therefore, the model ignores that in this case there are particular distinctions, like one chest being locked and another having a visible key, that make one option more optimal and the other detrimental. Donkey will notice, especially under the spell of rationality, that both chests are locked but one has a key to open it, and that it is better to satisfy only hunger than to satisfy nothing.
 
-ChatGPT 5.1 errors:
+ChatGPT 5.2 errors:
 The model ignores key details about the accessibility of the chests and makes the decision based only on the content of both chests. It ignores that the golden chest is locked and cannot be opened and that the silver chest has a key inserted and can potentially be opened. It makes an irrelevant comparison between hunger and thirst when, regardless of the physiological needs, only one chest can be accessed.
