@@ -1,0 +1,8 @@
+1. Identify that both chests are locked.
+2. Identify that only the silver chest has a key inserted.
+3. Determine that the silver chest is the only one that can potentially be opened.
+4. Determine that the golden chest is not accessible.
+5. Conclude that it is better to choose the silver chest and satisfy only hunger.
+6. Determine that if he chooses the golden chest, he will satisfy neither hunger nor thirst.
+7. Avoid the Buridan’s paradox bias, which suggests both options are equal.
+8. Determine that, unlike the Buridan paradox, Donkey won’t get paralyzed by equal options.
